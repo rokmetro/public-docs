@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [1.1.17] - 2021-05-26
+### Added
+- Support for subaccounts [#6](https://github.com/rokmetro/safer-check-in-app/issues/6)
+
 ## [1.1.16] - 2021-05-13
 ### Fixed
 - Issue with authentication timeouts in dev environment [#41](https://github.com/rokmetro/safer-check-in-app/issues/41)

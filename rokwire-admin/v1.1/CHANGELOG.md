@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [1.1.31] - 2021-05-26
+### Added
+- Search for order by email, phone, or name and date of birth
+
 ## [1.1.30] - 2021-05-13
 ### Fixed
 - Prevent backup of login credentials
