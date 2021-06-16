@@ -1,9 +1,13 @@
-# ROKWIRE Admin v1.1 Changelog
+# ROKWIRE Admin Changelog
 All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
+
+## [1.1.32] - 2021-06-16
+### Added
+- Cancellation information when searching for orders
 
 ## [1.1.31] - 2021-05-26
 ### Added
