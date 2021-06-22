@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [2.12.46] - 2021-06-22
+### Added
+ - Re-display consent form if user has not agreed to latest version [#166](https://github.com/rokmetro/safer-app/issues/166)
+
+### Fixed
+ - Loop during authentication refresh [#162](https://github.com/rokmetro/safer-app/issues/162)
+ - Returning users do not need to repeat onboarding process [#80](https://github.com/rokmetro/safer-app/issues/80)
+ - Broken help email button on iOS
+
 ## [2.12.45] - 2021-05-26
 ### Added
  - Support for creating minor accounts (does not impact all clients) [#153](https://github.com/rokmetro/safer-app/issues/153)
