@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## Unreleased
 
+## [1.1.36] - 2021-06-23
+### Added
+- Print order search results to PDF
+
 ## [1.1.32] - 2021-06-16
 ### Added
 - Cancellation information when searching for orders
