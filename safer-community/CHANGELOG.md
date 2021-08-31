@@ -5,6 +5,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [2.12.47] - 2021-08-31
+[Milestone](https://github.com/rokmetro/safer-app/milestone/4)
+### Added
+ - Make status card swiping more clear [#170](https://github.com/rokmetro/safer-app/issues/170)
+ - Better connection error messaging [#175](https://github.com/rokmetro/safer-app/issues/175)
+ - Make completing personal info form requirable [#171](https://github.com/rokmetro/safer-app/issues/171)
+ - Improve login flow [#168](https://github.com/rokmetro/safer-app/issues/168)
+
+### Fixed
+ - User profile information not saving [#169](https://github.com/rokmetro/safer-app/issues/169)
+ - Push notifications toggle and save QR code in settings will not request necessary permissions on iOS #182(https://github.com/rokmetro/safer-app/issues/182)
+
 ## [2.12.46] - 2021-06-22
 ### Added
  - Re-display consent form if user has not agreed to latest version [#166](https://github.com/rokmetro/safer-app/issues/166)
