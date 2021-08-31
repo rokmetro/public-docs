@@ -15,7 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ### Fixed
  - User profile information not saving [#169](https://github.com/rokmetro/safer-app/issues/169)
- - Push notifications toggle and save QR code in settings will not request necessary permissions on iOS #182(https://github.com/rokmetro/safer-app/issues/182)
+ - Push notifications toggle and save QR code in settings will not request necessary permissions on iOS [#182](https://github.com/rokmetro/safer-app/issues/182)
 
 ## [2.12.46] - 2021-06-22
 ### Added
