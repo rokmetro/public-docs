@@ -5,6 +5,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [2.12.48] - 2021-09-28
+[Milestone](https://github.com/rokmetro/safer-app/milestone/5)
+### Added
+ - Alphabetically sort org list [#195](https://github.com/rokmetro/safer-app/issues/195)
+
+### Fixed
+ - Device time manipulation [#193](https://github.com/rokmetro/safer-app/issues/193)
+ - Account deletion process [#187](https://github.com/rokmetro/safer-app/issues/187)
+ - Registration text box missing in other languages [#189](https://github.com/rokmetro/safer-app/issues/189)
+ - Connection error displaying when inactive [#192](https://github.com/rokmetro/safer-app/issues/192)
+ - Accidental account deletion [#190](https://github.com/rokmetro/safer-app/issues/190)
+ - Application size increase [#199](https://github.com/rokmetro/safer-app/issues/199)
+
 ## [2.12.47] - 2021-08-31
 [Milestone](https://github.com/rokmetro/safer-app/milestone/4)
 ### Added
