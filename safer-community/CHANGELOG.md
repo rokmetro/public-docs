@@ -5,6 +5,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [2.12.49] - 2021-11-02
+[Milestone](https://github.com/rokmetro/safer-app/milestone/6)
+
+### Fixed
+ - Device time manipulation [#193](https://github.com/rokmetro/safer-app/issues/193) 
+ - Users setting invalid password with reset [#205](https://github.com/rokmetro/safer-app/issues/205)
+ - Subaccounts inheriting exemption [#202](https://github.com/rokmetro/safer-app/issues/202)
+ - Make status card animation more visible [#213](https://github.com/rokmetro/safer-app/issues/213)
+ - Available upgrade option not dismissable [#209](https://github.com/rokmetro/safer-app/issues/209)
+ - Unprompted logouts [#191](https://github.com/rokmetro/safer-app/issues/191)
+
+### Removed
+ - Remove exposure notification [#204](https://github.com/rokmetro/safer-app/issues/204)
+ - Remove Microblink [#203](https://github.com/rokmetro/safer-app/issues/203)
+ 
 ## [2.12.48] - 2021-09-28
 [Milestone](https://github.com/rokmetro/safer-app/milestone/5)
 ### Added
