@@ -5,6 +5,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [2.12.50] - 2021-11-09
+[Milestone](https://github.com/rokmetro/safer-app/milestone/6)
+
+### Fixed
+ - Stacking notification alert dialogs [#217](https://github.com/rokmetro/safer-app/issues/217)
+ - New strings conflict with old [#218](https://github.com/rokmetro/safer-app/issues/218)
+
 ## [2.12.49] - 2021-11-02
 [Milestone](https://github.com/rokmetro/safer-app/milestone/6)
 
