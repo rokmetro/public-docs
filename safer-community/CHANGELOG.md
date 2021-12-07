@@ -4,9 +4,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
+## [2.12.51] - 2021-12-07
+[Milestone](https://github.com/rokmetro/safer-app/milestone/8)
+
+### Fixed
+ - Stuck on consent panel after token expires [#223](https://github.com/rokmetro/safer-app/issues/223)
 
 ## [2.12.50] - 2021-11-09
-[Milestone](https://github.com/rokmetro/safer-app/milestone/6)
+[Milestone](https://github.com/rokmetro/safer-app/milestone/7)
 
 ### Fixed
  - Stacking notification alert dialogs [#217](https://github.com/rokmetro/safer-app/issues/217)
