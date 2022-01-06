@@ -5,6 +5,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
 
+## [1.1.19] - 2022-01-06
+### Added
+- Package seal not working [#49](https://github.com/rokmetro/safer-check-in-app/issues/49)
+
 ## [1.1.18] - 2021-06-16
 ### Added
 - Add manual specimen ID entry indicator to orders [#48](https://github.com/rokmetro/safer-check-in-app/issues/48)
