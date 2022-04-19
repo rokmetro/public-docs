@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## Unreleased
+
+## [2.12.52] - 2022-04-19
+[Milestone](https://github.com/rokmetro/safer-app/milestone/9)
+
+### Fixed
+ - SSO login button not visible to screen readers [#225](https://github.com/rokmetro/safer-app/issues/225)
+
 ## [2.12.51] - 2021-12-07
 [Milestone](https://github.com/rokmetro/safer-app/milestone/8)
 
